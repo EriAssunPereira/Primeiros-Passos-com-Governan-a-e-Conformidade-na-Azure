@@ -1,7 +1,5 @@
 # Primeiros-Passos-com-Governan-a-e-Conformidade-na-Azure
 
-**Projeto: Primeiros Passos com Governança e Conformidade na Azure**
-
 Este projeto é focado em fornecer uma compreensão prática das políticas, conformidade e melhores práticas dentro da Azure. Vamos dividir isso em módulos para facilitar a compreensão.
 
 **Módulo 1: Políticas na Azure**
